@@ -1,9 +1,15 @@
-## Hi there 👋
+## HI GUYS 🤓
+I'm a second year Computer Science student, trying to improve every day!
 
+I would like to comprehend every single thing that I do, may be it is difficult, but not impossible. I really like to solve problems in the most ways that it could be.
+Always asking myself "why does this works?", and things like that, for every question i do, i do also know that there is an answer, so I'll have to reach it, how? dunno, but i'll do.
+Sounds obsesive but i´m not, for sure!. I also love teamwork, discuss about ideas, learn something new every time i can, everything that leads to improve is welcome!
+
+I love videogames, maybe my favourite type are the multiplayers, but I also enjoy the single one's, my aot favourite is God of War, a classic. Music enjoyer, Football passionate 😊
 <!--
 **carloscatfer/carloscatfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a second year Computer Science student
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
